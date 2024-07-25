@@ -1,0 +1,48 @@
+{
+	"showAbout": true,
+	"displayedColumns": ["Name", "Version", "Git Commit/Tag", "Build Date"],
+    "components": [
+		{
+        "Name": "Pump Control",
+        "Version": "1.9.0",
+        "Git Commit/Tag": "tag: 1.9.0",
+        "Build Date": "2024-04-17"
+      },
+      {
+        "Name": "Sharedlib",
+        "Version": "0.3.35",
+        "Git Commit/Tag": "tag: 0.3.35",
+        "Build Date": "2024-04-10"
+      },
+      {
+        "Name": "Backend API",
+        "Version": "1.2.0",
+        "Git Commit/Tag": "commit: abcdefg",
+        "Build Date": "2022-01-15"
+      },
+      {
+        "Name": "Setup app",
+        "Version": "2.1.5",
+        "Git Commit/Tag": "commit: hijklmn",
+        "Build Date": "2022-01-18"
+      },
+      {
+        "Name": "Test Harness",
+        "Version": "1.5.0",
+        "Git Commit/Tag": "tag: v2.0.0",
+        "Build Date": "2022-01-22"
+      },
+      {
+        "Name": "Timescale DB",
+        "Version": "4.2.3",
+        "Git Commit/Tag": "commit: opqrstuv",
+        "Build Date": "2022-01-25"
+      },
+      {
+        "Name": "Pump Simulator",
+        "Version": "3.0.1",
+        "Git Commit/Tag": "tag: v1.0.0",
+        "Build Date": "2022-01-20"
+      }
+    ]
+  }
